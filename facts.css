@@ -1,0 +1,48 @@
+/* importing google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.change_btn,
+.fact_contain{
+    position: relative;
+    top: 50%;top: 50%;top
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
+                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button .change_btn {
+    font-weight: 500;
+    color: #007bff;
+    padding: 15px 30px;
+    outline: none;
+    border:none;
+    background: #fff;
+    cursor: pointer;
+}
+
+.fact_contain{
+    color: #000;
+    font-family: 'Cairo', sans-serif;
+    height: 180px;
+    vertical-align: middle;
+    padding-top: 75px;
+    transition: all 0.3s ease;
+    -webkit-border-radius: 55px;
+border-radius: 55px;
+background: #9ccde2;
+-webkit-box-shadow: 26px 26px 23px #9badb459, -26px -26px 23px #ffffff34;
+box-shadow: 26px 26px 23px #595d5f67, -26px -26px 23px #ffffff31;
+}
+.fact_btn{
+    color:#007bff;
+    padding-top: 50;
+    padding-left: 50;
+    margin-left: 25px;
+    margin-top: 25px;
+}

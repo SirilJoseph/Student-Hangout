@@ -1,0 +1,92 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/982b7ef2c0e6fc0006725a329fc546d86c08162a346be13a5546725b16f0d47d50d149605da9c77e96db88f9c937852e4a763346a746642e837062_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 657px;
+  background-image: none;
+  box-shadow: 6px 10px 8px 4px rgba(0,0,0,0.65);
+  min-height: 658px;
+  margin: 44px 198px 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 597px;
+  width: 597px;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: 63px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 263px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    min-height: 520px;
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 63px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    min-height: 320px;
+    width: 320px;
+  }
+}@font-face {
+  font-family: 'GreatWishes';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/GreatWishes.otf);
+}
+#spotify { 
+  margin:0;
+  width:100%; 
+  height:100%;
+ }
